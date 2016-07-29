@@ -1,0 +1,1 @@
+从网络上找到qt操作execl。测试过的。自己使用过，。Language的小demo使用的这个类。
